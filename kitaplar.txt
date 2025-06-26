@@ -1,0 +1,5 @@
+Kitap adi: Suc ve Ceza,	Yazarin adi: Dostoyevski,	Sayfa sayisi: 688
+Kitap adi: Atesten Gomlek,	Yazarin adi: Halide Edib Adivar,	Sayfa sayisi: 224
+Kitap adi: Donusum,	Yazarin adi: Franz Kafka,	Sayfa sayisi: 104
+Kitap adi: 1984,	Yazarin adi: George Orwell,	Sayfa sayisi: 352
+Kitap adi: Hayvan Ciftligi,	Yazarin adi: George Orwell,	Sayfa sayisi: 152
